@@ -10,7 +10,6 @@ This is a solution to the [Request Header Parser Microservice](https://www.freec
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Helpful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -19,7 +18,7 @@ This is a solution to the [Request Header Parser Microservice](https://www.freec
 
 Users should be able to:
 
--
+- view their IP address, preferred language, and the software they used to make HTTP requests
 
 ### Links
 
@@ -37,11 +36,7 @@ Users should be able to:
 
 ### What I learned
 
--
-
-### Helpful Resources
-
-- []()
+- How to access the HTTP request IP address, preferred language, and software
 
 ## Author
 
